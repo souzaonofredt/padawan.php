@@ -1,5 +1,5 @@
 {
-    "name": "mkusher/padawan",
+    "name": "souzaonofredt/padawan",
     "description": "Smart php completion server",
     "authors": [
         {
@@ -33,5 +33,5 @@
         "peridot-php/peridot-prophecy-plugin": "~1.0",
         "phpspec/phpspec": "^2.5"
     },
-    "minimum-stability": "beta"
+    "minimum-stability": "dev"
 }
