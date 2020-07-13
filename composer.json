@@ -16,7 +16,7 @@
         "phine/path": "~1.0",
         "nikic/php-parser": "~3.0",
         "monolog/monolog": "~1.13",
-        "phpdocumentor/reflection-docblock": "~2.0",
+        "phpdocumentor/reflection-docblock": "~ 4.3",
         "symfony/event-dispatcher": "~2.6 || ~3.0",
         "doctrine/cache": "^1.4",
         "symfony/console": "~2.7 || ~3.0",
